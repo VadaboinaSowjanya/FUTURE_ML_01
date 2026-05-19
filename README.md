@@ -113,8 +113,10 @@ To run locally:
 
 ```bash
 streamlit run app.py
+```
 
 ---
+
 
 ## 🚀 Future Improvements
 - Use advanced forecasting models
