@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 This project is developed as part of the Future Interns Machine Learning Internship Task 1.
 
-The objective of this project is to predict future sales using historical business sales data and Machine Learning techniques. The project demonstrates how forecasting can help businesses make better decisions related to inventory management, staffing, and financial planning.
+The objective of this project is to predict future sales using historical business sales data and Machine Learning techniques. The project demonstrates how forecasting can help bus                                                                                inesses make better decisions related to inventory management, staffing, and financial planning.
 
 ---
 
