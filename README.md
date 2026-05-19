@@ -105,6 +105,17 @@ Project screenshots and outputs are included inside the `screenshots` folder.
 
 ---
 
+## 🌐 Interactive Dashboard
+
+An interactive Streamlit dashboard (`app.py`) is included in this project for visualizing sales trends and forecasting results.
+
+To run locally:
+
+```bash
+streamlit run app.py
+
+---
+
 ## 🚀 Future Improvements
 - Use advanced forecasting models
 - Add seasonal decomposition
